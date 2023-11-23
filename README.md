@@ -3,12 +3,15 @@
 # GLOBAL SOLUTION 2023 H2 FIAP | HAPVIDA
 
 Com o intuito no desenvolvimento de um produto funcional e com possibilidades de desenvolvimento futuro, aqui você encontra algumas informações importantes sobre o projeto.
-
 As telas e o conteúdo disponível para compartilhamento não representam a ideia final do produto.
-
 A ideia final do produto você poderá encontrar na pasta de documentação.
-
 O sistema aqui disponível foi simplificado para atender as solicitações dos professores da FIAP para esta entrega.
+
+The Unicorn Cake é a empresa fictícia desenvolvida com a finalidade de atender as exigências dos professores.
+O produto PSE Saúde é o produto fictício também desenvolvido com essa finalidade.
+PSE Saúde significa Prontuários de Saúde Eletrônicos, já o saúde subsequente indica qual a versão do produto, variando entre os tipos descritos logo abaixo:
+
+Para finalidade de entendimento prévio, a idéia é que o usuário escolha um ou mais planos, podendo ser o PSE Consultas, PSE Medicamentos, PSE Bem estar, PSE Vacinas, PSE Alergias e o PSE Saúde que por sua vez engloba todos os anteriores.
 
 [![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Autores

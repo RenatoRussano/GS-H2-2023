@@ -1,6 +1,3 @@
-# GS-H2-2023
-Entrega da Global Solution 2023 do segundo semestre, projeto Hapvida FIAP
-
 [![readme-splash.png](https://i.postimg.cc/cJdw7pGh/readme-splash.png)](https://postimg.cc/SntnktsY)
 
 # GLOBAL SOLUTION 2023 H2 FIAP | HAPVIDA
@@ -13,6 +10,7 @@ A ideia final do produto você poderá encontrar na pasta de documentação.
 
 O sistema aqui disponível foi simplificado para atender as solicitações dos professores da FIAP para esta entrega.
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Autores
 
 - RM 099768 - Luiza Nunes de Jesus - [@LuizanS](https://github.com/LuizaNs)
@@ -22,6 +20,7 @@ O sistema aqui disponível foi simplificado para atender as solicitações dos p
 - RM 551325 - Renato Russano Romeu - [@RenatoRussano](https://github.com/RenatoRussano)
 
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Observações
 
 • Com o intuito no desenvolvimento de um produto funcional e com possibilidades de desenvolvimento futuro, aqui você encontra algumas informações importantes sobre o projeto.
@@ -32,6 +31,7 @@ O sistema aqui disponível foi simplificado para atender as solicitações dos p
 
 • O sistema aqui disponível foi simplificado para atender as solicitações dos professores da FIAP para esta entrega.
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Resumo
 
 A saúde é um dos pilares fundamentais da vida humana. Não apenas ela influencia diretamente nossa qualidade de vida, mas também determina nossa capacidade de realizar nossos sonhos, aspirações e potencial criativo. Portanto, é inegável que o futuro da saúde é uma das questões mais prementes da sociedade contemporânea.
@@ -44,6 +44,7 @@ A precisão é outra área em que a inovação e a tecnologia estão transforman
 
 
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Aplicações
 
 Aplicações reais:
@@ -66,6 +67,7 @@ Engloba diversas metas, como prevenção do abuso de substâncias, redução de 
 
 
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Documentação
 
 [Documentação & Kit de desenvolvimento](https://drive.google.com/drive/folders/1x8Xo11MLTOZUGoWdlNRlxBoxKkgzrtL6?usp=drive_link)
@@ -74,6 +76,7 @@ Você pode encontrar a documentação completa e o kit de desenvolvimento no Goo
 Lá você encontra imagens em alta qualidade, logo, arquivos PSD, PDFs de cada etapa do desenvolvimento e o estudo de mercado.
 
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Links
 
  - [Trello](https://trello.com/b/ecWkLHYo/fiap-23)
@@ -81,6 +84,7 @@ Lá você encontra imagens em alta qualidade, logo, arquivos PSD, PDFs de cada e
  - [Youtube](https://www.youtube.com/playlist?list=PLnsC4Y30EcL7LZE2QdSZdqT8Hz8Fm407c)
 
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Cores
 
 | Cor               | Hexadecimal                                                |
@@ -88,6 +92,7 @@ Lá você encontra imagens em alta qualidade, logo, arquivos PSD, PDFs de cada e
 | Principal       | ![#b03e82](https://via.placeholder.com/10/b03e82?text=+) #b03e82 |
 | Contraste      | ![#cc6da6](https://via.placeholder.com/10/cc6da6?text=+) #cc6da6 |
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Fontes
 
 • Conteúdo principal: [Poppins](https://fonts.google.com/specimen/Poppins)
@@ -95,6 +100,7 @@ Lá você encontra imagens em alta qualidade, logo, arquivos PSD, PDFs de cada e
 • Títulos: [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
 
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## The Unicorn Cake
 
 [![readme-unicorn-cake.png](https://i.postimg.cc/43wtWWJg/readme-unicorn-cake.png)](https://postimg.cc/p9hpTYhG)
@@ -112,6 +118,7 @@ O projeto vai além do que demonstrado aqui e está em desenvolvimento contínuo
 
 
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Briefing do projeto original
 
 Motivo:
@@ -133,6 +140,7 @@ Os seus dados são seus. Quem precisar acessar seus dados precisa de um token de
 
 
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
 ## Screenshots
 
 O Lorem Ipsum foi usado neste cenário pois o produto está em fase inicial de desenvolvimento no momento dessa postagem.
@@ -140,5 +148,4 @@ O Lorem Ipsum foi usado neste cenário pois o produto está em fase inicial de d
 [![TELA-02.png](https://i.postimg.cc/2SZkJ8hG/TELA-02.png)](https://postimg.cc/JsRCH8TH)
 
 [![TELA-03.png](https://i.postimg.cc/xdVfSDP2/TELA-03.png)](https://postimg.cc/VJ4QjhTG)
-
 

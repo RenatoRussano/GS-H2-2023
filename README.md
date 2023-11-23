@@ -140,7 +140,24 @@ Agora imagine a seguinte situação, você está em um acompanhamento médico e 
 
 Os seus dados são seus. Quem precisar acessar seus dados precisa de um token de liberação que permite o usuário autorizado acessar seus dados por apenas 30 minutos. Além de permitir um nível de acesso, limitando ou não acesso a algumas informações.
 
+[![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
+## Desenvolvimento
 
+Tipos de telas previstas para desenvolvimento futuro.
+
+• PSE Bem estar: Voltado exclusivamente para conteúdo de bem estar e cuidados como lembrete de medicamentos, agenda de consultas, exercícios necessários e alimentaçlão.
+
+• PSE Consultas: Cuida exclusivamente em buscar dentro do convênio o médico ou consultório disponível de acordo com o plano e manter uma agenda médica contínua.
+
+• PSE Medicamentos: Informa quais medicamentos o usuário faz consumo constante, medicamentos alérgicos, medicamentos já ministrados anteriormente.
+
+• PSE Alergias: Declara todo o tipo de alergia do usuário, seja medicamentosa ou fisiolófica do cotidiano.
+
+• PSE Vacinas: Mantém uma ficha online eletrônica com as vacinas do usuário.
+
+• PSE Quem sou eu: Engloba todas as informações do usuário, tais como, tipo sanguíneo, limitações, se é doador de orgãos, se aceita transfusão de sangue, se é ONR e assim por diante.
+
+• PSE Saúde: Engloba todos os citados anteriormente.
 
 
 [![Sem-T-tulo-2.png](https://i.postimg.cc/vTcGbQg0/Sem-T-tulo-2.png)](https://postimg.cc/bSc7RfRn)
